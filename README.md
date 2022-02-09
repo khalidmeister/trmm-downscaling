@@ -3,7 +3,7 @@
 ![Visualization of 3 Satellites (NDVI, Land Cover, and DEM) and 1 Missing (Precipitation from TRMM)](cover-trmm.png)<br>
 
 ### Introduction
-In this project, I implement machine learning model to visualize precipitation map on high-resolusion version from TRMM Satellite. The satellite has 25 km per pixel resolution, which is not hightly detailed to know precipitation in certain location. Variables like NDVI, DEM, and Land Cover will be used as predictor to Precipitation value by using machine learning model, in this case Random Forest. The final output of this project is a precipitation map on Riau Province with a spatial resolution of 1 km.
+In this project, I implement machine learning model to visualize precipitation map on high-resolusion version from TRMM Satellite. The satellite has 25 km per pixel resolution, which is not hightly detailed to know precipitation in certain location. Variables like NDVI, DEM, and Land Cover will be used as predictor to Precipitation value by using a machine learning algorithm. The final output of this project is a precipitation map on Riau Province with a spatial resolution of 1 km.
 
 ### The Workflow
 ![The Research Workflow](workflow.png)<br>
